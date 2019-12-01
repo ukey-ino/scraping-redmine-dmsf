@@ -1,0 +1,16 @@
+{
+  "name": "scraping-redmine-dmsf",
+  "version": "1.0.0",
+  "description": "scrap redmine DMSF and create file tree",
+  "main": "index.js",
+  "repository": "https://github.com/ukey-ino/scraping-redmine-dmsf.git",
+  "author": "ukey-ino <boogie.pop.terre.lune@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.2.4",
+    "puppeteer": "^2.0.0"
+  },
+  "scripts": {
+    "develop": "node index.js"
+  }
+}
